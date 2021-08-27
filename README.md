@@ -1,16 +1,9 @@
-# team_collaboration_ui
+# TEAM COLLABORATION APP - LOGIN PAGE DESIGN
 
-A new Flutter project.
+Screen recreated with a concept
 
-## Getting Started
+Desgin credit ->https://dribbble.com/shots/14503235--Sign-In-Register
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SCREEN SHOTS OF THE RECREATION DESIGN IN FLUTTER
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-08-27 at 10 31 13](https://user-images.githubusercontent.com/62739964/131074910-aab7c71b-e28c-476e-8b6d-bc092bba7570.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-08-27 at 10 31 20](https://user-images.githubusercontent.com/62739964/131074922-fd67b688-ae61-4a33-a9ee-108bb1d2d2ec.png)
